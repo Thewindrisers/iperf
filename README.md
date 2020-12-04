@@ -85,7 +85,7 @@ already been fixed.  Then submit to the iperf3 issue tracker on
 GitHub:
 
 https://github.com/esnet/iperf/issues
-
+[RELNOTES.md](./RELNOTES.md)
 In your issue submission, please indicate the version of iperf3 and
 what platform you're trying to run on (provide the platform
 information even if you're not using a supported platform, we
